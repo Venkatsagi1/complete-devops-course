@@ -10,7 +10,7 @@ Video version of this README file is available on my [YouTube](https://youtu.be/
 - SDLC (Software Development Life Cycle)
 - Creating AWS account Free Trail
 - What is a Virtual Machine ? 
-- Basics of Linux
+- Basics of Linux !
 - Shell Scripting using bash
 
 ## Version Control and Source Code Management
